@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Matt\'s Apps</string>
+    <string name="app_home_header">Nanodegree Apps</string>
+    <string name="action_settings">Settings</string>
+    <string name="spotifyTitle">Spotify Streamer</string>
+    <string name="scoresTitle">Scores App</string>
+    <string name="libraryTitle">Library App</string>
+    <string name="buildItTitle">Build It Bigger</string>
+    <string name="xyzTitle">XYZ Reader</string>
+    <string name="myOwnTitle">Capstone: My Own App</string>
+</resources>
